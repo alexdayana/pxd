@@ -30,7 +30,7 @@
 	},
 	"Config": {
 		"app_version": "1.0",
-		"package_name": "com.nightsgame.tips",
+		"package_name": "com.playkids.pxd",
 		"rattingIsEnabled": false
 	},
 	"Privacy": {
@@ -39,24 +39,27 @@
 		"message": "Privacy Policy Message",
 		"url": "https://termly.io/privacy-policy/"
 	},
-	"GuideContent": [{
-			"title": "Five Nights at Freddy's",
-			"description": "Fans hungry for fresh Five Nights at Freddy's lore can sink their teeth into this massive guidebook packed with mythology, gameplay, and secrets to help unwind the twisted mysteries lurking behind the smiling face of Fazbear Entertainment. Delving into each game, players can map the animatronics' paths, learn how timed elements of the games work, and discover how to trigger unique events. Special sections throughout highlight FNAF fans' most talked-about topics, from the alternate endings in Help Wanted and Curse of Dreadbear, to the new technology introduced in Fazbear Frights, "
+
+	"GuideContent": [
+{
+"title": "Guide 1",
+"description": " Animal Revolt Battle Simulator is the ultimate physics-based battle simulator sandbox Place two opposing armies made of different types of beasts and watch them tear each other apart in an epic battle! As the creatures fight, you can see the limbs bending, necks twisting, and bodies flying around everywhere .This Animal Revolt Battle Simulator game gives unlimited prospects to interactivity and keeping in mind that we'd prefer to believe that we've thought of the best time one. " 
+},
+		{
+"title": "Guide 2",
+"description": " Huge variety of creatures: T-Rex, spinosaurus, triceratops, tiger, elephant, rhinoceros, werewolf, minotaur, wyvern, hydra, spartan warrior, archer, Titanoboa, giant crocodiles, hellhound, giant insects, skeleton warriors, and many more units to play with! Dinosaurs, fantasy creatures, mutant primates, demonic monsters, you can find it all here. "
 		},
 		{
-			"title": "Media List",
-			"description": "The book is the same like the The Freddy Files books, except it was upgraded with new information, guides, and strategies related to the latest media like Help Wanted, Curse of Dreadbear, Special Delivery, and the Fazbear Frights series, along with other updated information. "
+"title": "Guide 3",
+"description": " You can even attach weapons to the animals! Put some huge guns, rocket launchers, and crossbows on a T-Rex and watch the havoc it wreaks Create your own custom monsters by combining different body parts and weapons Enjoy ultimate flexibility! Attach as many body parts and weapons as you want, anywhere you want.  "
 		},
 		{
-			"title": "Games",
-			"description": "Five Nights  Freddy's - Pages 4 through 13Five Nights at Freddy's 2 - Pages 14 through 27 Five Nights at Freddy's 3 - Pages 28 through 4   Five Nights at Freddy's 4 - Pages 44 through Five Nights at Freddy's: Sister Location - Pages 56 through 71Freddy Fazbear's Pizzeria Simulator - Pages 72 through 93Ultimate Custom Night - Pages 94 through 113 Five Nights at Freddy's: Help Wanted - Pages 114 through 143 "
+"title": "Guide 4  ",
+"description": " Test your tactical and strategic expertise in the campaign mode. Pick the right beasts, place them in the right place, and command them to defeat the enemy The most expensive army doesn't always win. Units have strengths and weaknesses. Find out what they are and use that knowledge to your advantage on the battlefield "
 		},
 		{
-			"title": "Guide  ",
-			"description": "Fans won't want to miss this ultimate guide to Five Nights at Freddy’s -- bursting with theories, lore, and insights from the games, books, and more!This all-encompassing guidebook concentrates material from The Freddy Files (Updated Edition) and adds over 100 pages of new content exploring Help Wanted, Curse of Dreadbear, Fazbear Frights, the novel trilogy, and more!Fans hungry for fresh Five Nights at Freddy's lore can sink their teeth into this massive guidebook packed with mythology, gameplay, and secrets to help unwind "
-		},
-		{
-			"title": "Survive the nights",
-			"description": "The Nintendo Switch version allows you to select Cheats in the main menu. With these, you can choose whether or not to have Unlimited Power, Fast Nights, or Radar Map turned on. "
+"title": "Guide 5",
+"description": "Animal Revolt Battle Simulator est l'ultime bac à sable de simulateur de combat basé sur la physique ! Placez deux armées opposées composées de différents types de bêtes et regardez-les se déchirer dans une bataille épique ! Pendant que les créatures se battent, vous pouvez voir les membres se plier, les cous se tordre et les corps voler partout.   "
 		}
 	]
+}
